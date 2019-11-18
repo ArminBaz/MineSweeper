@@ -1,6 +1,6 @@
 ## Mine Sweeper Project
 
-This was a project that was done for my csci455 class at usc. The implementation is in java and you will have to be able to run the program within a desktop that allows for pop ups. 
+This was a project that was done for my csci455 class at USC. The implementation is in java and you will have to be able to run the program within a desktop that allows for pop ups. 
 
 <br/>
 
